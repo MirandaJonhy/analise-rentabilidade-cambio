@@ -216,7 +216,7 @@ Algumas escolhas importantes do projeto:
 
 ## 👤 Autor
 
-**João Victor Xavier Miranda Santos**
+**João Victor Miranda**
 
 - 🔗 [GitHub](https://github.com/MirandaJonhy)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mirandajhonhy)
