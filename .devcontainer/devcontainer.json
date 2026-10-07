@@ -1,0 +1,15 @@
+{
+    "name": "Análise de Rentabilidade - Python 3.12",
+    "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+
+    "postCreateCommand": "python -m pip install --upgrade pip && pip install -r requirements.txt",
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    }
+}
